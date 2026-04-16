@@ -8870,7 +8870,7 @@
 	)
 	(gr_text "Design Engineer:\nMark Garcia\nDate:\n13 Apr 2026"
 		(at 129.7 73.475 0)
-		(layer "Edge.Cuts")
+		(layer "F.SilkS")
 		(uuid "702db6ba-6b09-4b60-a38a-712a9f3bc29c")
 		(effects
 			(font
